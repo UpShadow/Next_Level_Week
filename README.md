@@ -16,4 +16,4 @@
 - start web server in using `npm run dev`
 
 ## 🕸️ Test in WEB
-Open Bowser in [`http://127.0.0.1:5173/`](http://127.0.0.1:5173/).
+- Open Bowser in [`http://127.0.0.1:5173/`](http://127.0.0.1:5173/).
