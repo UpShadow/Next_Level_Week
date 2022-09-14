@@ -11,3 +11,9 @@
 - [ViteJS](https://vitejs.dev)
 - [Tailwind CSS](https://tailwindcss.com)
 - [Phosphor Icons](https://phosphoricons.com)
+
+## 🚀 How start
+- start web server in using `yarn dev`
+
+## 🕸️ Test in WEB
+Open Bowser in [`http://127.0.0.1:5173/`](http://127.0.0.1:5173/).
