@@ -13,7 +13,7 @@
 - [Phosphor Icons](https://phosphoricons.com)
 
 ## 🚀 How start
-- Start web server in using `npm run dev`
+- Start the web server using `npm run dev`
 
 ## 🕸️ Test in WEB
 - Open Browser in [`http://127.0.0.1:5173/`](http://127.0.0.1:5173/).
