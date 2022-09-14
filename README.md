@@ -1,4 +1,4 @@
-# Next Level Week 9° Edição
+# Next Level Week - 9° Edição
  
 > NLW is a completely online and free event for you to advance to the next level by building a complete, exclusive and unprecedented application.
 
