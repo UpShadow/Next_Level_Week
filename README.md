@@ -13,7 +13,9 @@
 - [Phosphor Icons](https://phosphoricons.com)
 
 ## 🚀 How start
-- Start the web server using `npm run dev`
-
-## 🕸️ Test in WEB
-- Open Browser in [`http://127.0.0.1:5173/`](http://127.0.0.1:5173/).
+- Web part
+  - Start the web server using `npm run dev`
+  - Open Browser in [`http://127.0.0.1:5173/`](http://127.0.0.1:5173/).
+- Mobile part
+  - emulation with android studio: `expo start` and press `a`.
+  - On the mobile device: `expo start` and read the QR code on App [`Expo`](https://play.google.com/store/search?q=expo&c=apps).
