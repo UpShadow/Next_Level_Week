@@ -19,3 +19,5 @@
 - Mobile part
   - emulation with android studio: `expo start` and press `a`.
   - On the mobile device: `expo start` and read the QR code on App [`Expo`](https://play.google.com/store/search?q=expo&c=apps).
+- Back-end test
+  - `npm run dev` and `npx prisma studio`
